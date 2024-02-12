@@ -1,0 +1,22 @@
+section {
+    display: flex;
+    justify-content: center;
+    background-color: #007bff; 
+    padding: 20px;
+    flex-wrap: wrap ;
+
+  }
+  
+  section > div {
+    width: 40px; 
+    height: 40px;
+    background-color: #ffffff;
+    color: #000000; 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    border: 1px solid #000000; 
+    margin-right: 10px; 
+  }
+  
+  
